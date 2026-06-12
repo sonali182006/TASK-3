@@ -1,0 +1,27 @@
+PS C:\Users\swathi\TASK 3> & "C:/Program Files/Python314/python3.14t.exe" "c:/Users/swathi/TASK 3/PWD.py"
+=== Random Password Generator ===
+Enter password length: 12
+Include letters? (y/n): y
+Include numbers? (y/n): n
+Include symbols? (y/n): y
+
+Generated Password:
+hl/}l=*_t;_x
+PS C:\Users\swathi\TASK 3> & "C:/Program Files/Python314/python3.14t.exe" "c:/Users/swathi/TASK 3/PWD.py"
+=== Random Password Generator ===
+Enter password length: 16
+Include letters? (y/n): n
+Include numbers? (y/n): y
+Include symbols? (y/n): y
+
+Generated Password:
+>7[^@51&7=/>[}*$
+PS C:\Users\swathi\TASK 3> & "C:/Program Files/Python314/python3.14t.exe" "c:/Users/swathi/TASK 3/PWD.py"
+=== Random Password Generator ===
+Enter password length: 8
+Include letters? (y/n): y
+Include numbers? (y/n): y
+Include symbols? (y/n): y
+
+Generated Password:
+i~b$Lz-p
